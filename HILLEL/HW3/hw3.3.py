@@ -1,4 +1,4 @@
-symbol = input('через пробіл ')
+symbol = input('через пробіл: ')
 
 if symbol.strip() == '':
     lst = []
