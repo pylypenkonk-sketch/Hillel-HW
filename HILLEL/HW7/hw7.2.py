@@ -14,4 +14,4 @@ assert correct_sentence("Greetings, friends.") == "Greetings, friends.", 'Test4'
 assert correct_sentence("greetings, friends.") == "Greetings, friends.", 'Test5'
 print('ОК')
 
-print(correct_sentence("greetings, friends"))
+print(correct_sentence("greetings, friends."))
